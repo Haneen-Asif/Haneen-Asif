@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning artificial intelligence, and web development with JavaScript.
 - 💬 Ask me about Python/Java programming, algorithms, data structures, databases, and computer networks.
 - 💞️ I’m looking to collaborate on open-source projects related to programming. If you're working on a project that involves Java, Python, HTML, CSS, let's connect!
-- 📫 How to reach me: haneenasifkk@gmail.com
+- 📫 How to reach me: haneeenasif@gmail.com
 - ⚡ Fun fact: I love taking on challenges, because that's where the most growth happens. It’s how I turned a love for problem-solving into a passion for coding.
 - 🎯 Actively seeking learning opportunities, internships, and open-source contributions.
 
